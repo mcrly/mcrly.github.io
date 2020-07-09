@@ -64,16 +64,10 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.mcrly.net"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://twitter.com/mcurley"
     - label: "Twitch"
       icon: "fab fa-fw fa-twitch"
       url: "https://www.twitch.tv/mcurley"
@@ -83,6 +77,12 @@ author:
     - label: "Steam"
       icon: "fab fa-fw fa-steam-square"
       url: "https://steamcommunity.com/id/mcurley"
+    - label: "PlayStation"
+      icon: "fab fa-fw fa-playstation"
+      url: "https://psnprofiles.com/MCurley"
+    - label: "Xbox"
+      icon: "fab fa-fw fa-xbox"
+      url: "http://live.xbox.com/Profile?Gamertag=MCurley"
 
 footer:
   links:

@@ -83,9 +83,6 @@ author:
     - label: "Xbox"
       icon: "fab fa-fw fa-xbox"
       url: "https://www.exophase.com/xbox/user/MCurley/"
-    - label: "Achievements"
-      icon: "fab fa-fw fa-gamepad"
-      url: "https://www.exophase.com/user/MCurley/"
 
 footer:
   links:
@@ -101,18 +98,6 @@ footer:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/mcurley"
-    - label: "Steam"
-      icon: "fab fa-fw fa-steam-square"
-      url: "https://steamcommunity.com/id/mcurley"
-    - label: "PlayStation"
-      icon: "fab fa-fw fa-playstation"
-      url: "https://www.exophase.com/psn/user/MCurley/"
-    - label: "Xbox"
-      icon: "fab fa-fw fa-xbox"
-      url: "https://www.exophase.com/xbox/user/MCurley/"
-    - label: "Achievements"
-      icon: "fab fa-fw fa-gamepad"
-      url: "https://www.exophase.com/user/MCurley/"
 
 defaults:
   # _posts

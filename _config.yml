@@ -110,7 +110,7 @@ defaults:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "mcrly"
+    shortname: "mcrly-net"
 
 category_archive:
   type: liquid

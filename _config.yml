@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Matt Curley"
+  name   : "MCurley"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Important people have websites. I have a website. I am important."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -74,8 +74,14 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://www.twitch.tv/mcurley"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/mcurley"
     - label: "Steam"
-      icon: "fab fa-fw fa-steam"
+      icon: "fab fa-fw fa-steam-square"
       url: "https://steamcommunity.com/id/mcurley"
 
 footer:

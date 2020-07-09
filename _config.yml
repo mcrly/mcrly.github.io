@@ -79,10 +79,13 @@ author:
       url: "https://steamcommunity.com/id/mcurley"
     - label: "PlayStation"
       icon: "fab fa-fw fa-playstation"
-      url: "https://psnprofiles.com/MCurley"
+      url: "https://www.exophase.com/psn/user/MCurley/"
     - label: "Xbox"
       icon: "fab fa-fw fa-xbox"
-      url: "http://live.xbox.com/Profile?Gamertag=MCurley"
+      url: "https://www.exophase.com/xbox/user/MCurley/"
+    - label: "Achievements"
+      icon: "fab fa-fw fa-gamepad"
+      url: "https://www.exophase.com/user/MCurley/"
 
 footer:
   links:

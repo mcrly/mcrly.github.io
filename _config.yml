@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "MCurley"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : ""em-cur-lee""
+  bio    : "\"em-cur-lee\""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

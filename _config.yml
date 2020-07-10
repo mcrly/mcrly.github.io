@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "MCurley"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Important people have websites. I have a website. I am important."
+  bio    : "Important people have websites. I have a website. I am apparently important."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

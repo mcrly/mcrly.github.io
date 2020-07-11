@@ -1,11 +1,12 @@
 ---
-title: "The Order 1886 (PS4)"
+title: "The Order 1886 (PS4) Review"
 date: 2015-03-11T13:40:00-04:00
 categories:
   - game
 tags:
   - playstation 4
   - 100% complete
+  - review
 ---
 **Rating:** 7/10  
 **Estimated Time:** 10 hours (between 3/1/15 and 3/4/15)  

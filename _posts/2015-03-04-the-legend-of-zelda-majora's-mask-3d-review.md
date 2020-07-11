@@ -10,18 +10,13 @@ tags:
   - review
 ---
 
-![](http://i.imgur.com/Ahy956W.jpg)
-
-*   **Rating:** 10 / 10 ( 11 / 10  when Nintendo <del>never</del> adds a Master Quest mode )
-*   **Estimated Time:** ~30 hours between 2/13/15 and 2/25/15
-*   **Play Again?** Definitely. One of the few non sandbox/dynamic stories that I would start over.
-*   **Links:** [100% Screen](https://miiverse.nintendo.net/posts/AYMHAAACAAADVHi3u4dUtg), [Imgur Album](http://imgur.com/a/UHiHK), [Wikipedia](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora's_Mask_3D), [Metacritic](http://www.metacritic.com/game/3ds/the-legend-of-zelda-majoras-mask-3d)
-
-**Thoughts**
-
 Holy crap. This game is everything I wanted in a Zelda game... or any game in general for that matter. I knew that I would like this game based off of the time travel aspect but I really enjoyed the darker and sillier story. I haven't played every game in the series, but this is probably my new favorite.
 
-![](http://i.imgur.com/GDFzgyG.jpg)Majora's Mask doesn't always take itself seriously. At times, it seems like the game is breaking the fourth wall or just being ridiculous. That was really refreshing as opposed to the super serious "save the princess" routine. That's fine too but limits creativity sometimes.
+![](http://i.imgur.com/Ahy956W.jpg)
+
+Majora's Mask doesn't always take itself seriously. At times, it seems like the game is breaking the fourth wall or just being ridiculous. That was really refreshing as opposed to the super serious "save the princess" routine. That's fine too but limits creativity sometimes.
+
+![](http://i.imgur.com/GDFzgyG.jpg)
 
 Gameplay wise, I got stuck a few times on some puzzles but the answer was using staring me in the face. There were also a couple close calls with some mini-bosses but that was due to jumping the gun on some patterned attacks (one of my gaming weaknesses for some reason...).
 
@@ -40,6 +35,11 @@ I also have to brag or else what is the point of playing video games? I finishe
 Also, This is my first attempt to get out of a Playstation trophy obsessed mindset. It was really nice to be able to send screenshots straight to [my Miiverse](https://miiverse.nintendo.net/users/MCurley/posts) page as do-it-yourself reward system. Also, I lost it during [this Miiverse exchange](https://miiverse.nintendo.net/posts/AYMHAAACAAADVHixHmQztQ).
 
 **![](http://i.imgur.com/EE8PCqs.jpg)**
+
+*   **Rating:** 10 / 10 ( 11 / 10  when Nintendo <del>never</del> adds a Master Quest mode )
+*   **Estimated Time:** ~30 hours between 2/13/15 and 2/25/15
+*   **Play Again?** Definitely. One of the few non sandbox/dynamic stories that I would start over.
+*   **Links:** [100% Screen](https://miiverse.nintendo.net/posts/AYMHAAACAAADVHi3u4dUtg), [Imgur Album](http://imgur.com/a/UHiHK), [Wikipedia](http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora's_Mask_3D), [Metacritic](http://www.metacritic.com/game/3ds/the-legend-of-zelda-majoras-mask-3d)
 
 **Miiverse Moments**
 

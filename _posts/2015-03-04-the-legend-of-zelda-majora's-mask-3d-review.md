@@ -1,8 +1,7 @@
 ---
 title: "The Legend of Zelda: Majora's Mask 3D (3DS) Review"
 date: 2015-03-04T14:08:00-04:00
-image:
-    feature: 2015-03-04-the-legend-of-zelda-majora's-mask-3d-review-featured.jpg
+image: 2015-03-04-the-legend-of-zelda-majora's-mask-3d-review-featured.jpg
 categories:
   - game
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "The Legend of Zelda: Majora's Mask 3D (3DS) Review"
-date: 2015-03-04T14:08:00-04:00
 excerpt: "A review of the 3DS remake. Game 100% completed."
+date: 2015-03-04T14:08:00-04:00
 header:
   overlay_image: /assets/images/majorasmask3d.jpg
   caption: "photo credit: Nintendo"

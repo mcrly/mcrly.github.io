@@ -2,9 +2,9 @@
 title: "The Legend of Zelda: Majora's Mask 3D (3DS)"
 date: 2015-03-15T14:08:00-04:00
 categories:
-  - review
+  - game
 tags:
-  - 3ds
+  - nintendo 3ds
   - legend of zelda
   - 100% complete
 ---

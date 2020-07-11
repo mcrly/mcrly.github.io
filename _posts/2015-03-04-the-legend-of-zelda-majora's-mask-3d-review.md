@@ -38,7 +38,9 @@ I really want to play Ocarina of Time again (+Master Quest) after this but I wi
 
 Also, This is my first attempt to get out of a Playstation trophy obsessed mindset. It was really nice to be able to send screenshots straight to [my Miiverse](https://miiverse.nintendo.net/users/MCurley/posts) page as do-it-yourself reward system. Also, I lost it during [this Miiverse exchange](https://miiverse.nintendo.net/posts/AYMHAAACAAADVHixHmQztQ).
 
-**![](http://i.imgur.com/EE8PCqs.jpg)**
+![](http://i.imgur.com/EE8PCqs.jpg)
+
+**Rating, Info, and Links**
 
 *   **Rating:** 10 / 10 ( 11 / 10  when Nintendo <del>never</del> adds a Master Quest mode )
 *   **Estimated Time:** ~30 hours between 2/13/15 and 2/25/15

@@ -26,11 +26,15 @@ The 3D looks great on this game but that may more attributed to the "New" 3DS XL
 
 The Zelda franchise has always been known for its iconic music but I love the [Groundhog Day](https://www.youtube.com/watch?v=OyBSrBqogPY) feeling that the [Clocktown (First Day)](https://www.youtube.com/watch?v=7rm6KD-WUxA) theme has when you go back in time. Also, [Deku Palace](https://www.youtube.com/watch?v=f72iBfWWqlE).
 
-**![](http://i.imgur.com/fJKuskQ.jpg)Completion**
+![](http://i.imgur.com/fJKuskQ.jpg)
+
+**Completion**
 
 I also have to brag or else what is the point of playing video games? I finished every side quest and found every heart, item, song, etc. I did, however, use a guide to cleanup the remaining hearts and items (not temple fairies though!). I couldn't imagine doing a 100% save on the Nintendo 64 version without the Bomber's Notebook hand holding that goes on in the 3DS version. It wasn't really hard as much as it is a scavenger hunt. Though, I would have definitely played this game again immediately if it had a Master Quest or Hero Mode difficulty. That's a pretty big missed opportunity.
 
-![](http://i.imgur.com/5WCmoWD.jpg)I really want to play Ocarina of Time again (+Master Quest) after this but I will probably tackle A Link Between Worlds and Wind Waker HD first.
+![](http://i.imgur.com/5WCmoWD.jpg)
+
+I really want to play Ocarina of Time again (+Master Quest) after this but I will probably tackle A Link Between Worlds and Wind Waker HD first.
 
 Also, This is my first attempt to get out of a Playstation trophy obsessed mindset. It was really nice to be able to send screenshots straight to [my Miiverse](https://miiverse.nintendo.net/users/MCurley/posts) page as do-it-yourself reward system. Also, I lost it during [this Miiverse exchange](https://miiverse.nintendo.net/posts/AYMHAAACAAADVHixHmQztQ).
 

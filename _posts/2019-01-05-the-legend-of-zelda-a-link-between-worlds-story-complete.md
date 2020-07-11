@@ -10,3 +10,5 @@ tags:
 ---
 
 Love the mechanics and the story. Some of the best music in the series IMO. Combat somewhat easy but does have a harder difficulty that I probably will try. Perfect spiritual successor to a Link to the Past.
+
+{% include video id="g75HDyL2BGc" provider="youtube" %}

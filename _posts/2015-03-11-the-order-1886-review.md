@@ -1,6 +1,10 @@
 ---
 title: "The Order 1886 (PS4) Review"
+excerpt: "A review of Ready at Dawn's alternate history story game. TLDR: I didn't hate it. Game 100% completed."
 date: 2015-03-11T13:40:00-04:00
+header:
+  overlay_image: /assets/images/the-order-1886-review-header.jpg
+  caption: "photo credit: Ready at Dawn"
 categories:
   - game
 tags:

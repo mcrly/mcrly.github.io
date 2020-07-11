@@ -28,5 +28,5 @@ I'm hilarious. I'd better post that one to Metacritic.
 
 **Rating:** 7/10  
 **Estimated Time:** 10 hours (between 3/1/15 and 3/4/15)  
-**Play Again? **No. I'll watch an edited YouTube montage.  
+**Play Again?** No. I'll watch an edited YouTube montage.  
 **Links:** [Trophies](http://psnprofiles.com/trophies/3291-The-Order-1886/MCurley), [Platinum Screenshot](http://i.imgur.com/7n4YWG9.jpg), [Wikipedia](http://en.wikipedia.org/wiki/The_Order:_1886), [Metacritic](http://www.metacritic.com/game/playstation-4/the-order-1886)

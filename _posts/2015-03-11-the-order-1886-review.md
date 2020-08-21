@@ -1,6 +1,6 @@
 ---
 title: "The Order 1886 (PS4) Review"
-excerpt: "TLDR: I didn't hate it. Game 100% completed."
+excerpt: "I didn't hate it. 100% Complete"
 date: 2015-03-11T13:40:00-04:00
 header:
   overlay_image: /assets/images/the-order-1886-review-header.jpg

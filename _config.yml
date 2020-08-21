@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "MCurley"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Important people have websites.  I have a website."
   links:
     - label: "Website"

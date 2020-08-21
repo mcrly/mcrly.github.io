@@ -1,5 +1,5 @@
 ---
-title: "The Legend of Zelda: A Link Between Worlds (3DS) Story Complete"
+title: "The Legend of Zelda: A Link Between Worlds (3DS) Complete"
 date: 2019-01-05T15:14:00-04:00
 categories:
   - game

@@ -1,6 +1,6 @@
 ---
 title: "Fall Guys (PS4) Complete"
-excerpt: "Unique and Fresh Battle Royale. 100% Complete."
+excerpt: "Quirky and Fresh Battle Royale. 100% Complete."
 date: 2020-08-15T13:40:00-04:00
 header:
   overlay_image: /assets/images/fall-guys-header.jpg

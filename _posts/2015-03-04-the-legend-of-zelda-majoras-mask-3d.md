@@ -1,5 +1,5 @@
 ---
-title: "The Legend of Zelda: Majora's Mask 3D (3DS)"
+title: "The Legend of Zelda: Majora's Mask 3D"
 excerpt: "100% Complete // You got your time travel in my Zelda."
 date: 2015-03-04T14:08:00-04:00
 header:

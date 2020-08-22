@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: mcrly.net
+title: MCRLY.NET
 email: matt@mcrly.net
 description: >- # this means to ignore newlines until "baseurl:"
-  MCurley's blog, media reviews, and hilarious reddit reposts.
+  MCurley's blog, media reviews/log, and hilarious reddit reposts...
 twitter_username: MCurley
 github_username: mcrly
 minimal_mistakes_skin: dark
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "MCurley"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Important people have websites.  I have a website."
+  bio    : "\"em-cur-lee\""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

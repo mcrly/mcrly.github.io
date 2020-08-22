@@ -1,5 +1,5 @@
 ---
-title: "The Legend of Zelda: A Link Between Worlds (3DS)"
+title: "The Legend of Zelda: A Link Between Worlds"
 excerpt: "Story Complete // Great reimaginging of a SNES classic."
 date: 2019-01-05T15:14:00-04:00
 categories:

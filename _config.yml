@@ -72,15 +72,18 @@ author:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/mcurley"
+    - label: "Gamercard"
+      icon: "fab fa-fw fa-gamepad"
+      url: "https://www.exophase.com/user/MCurley/"
+    - label: "PlayStation"
+      icon: "fab fa-fw fa-playstation"
+      url: "https://psnprofiles.com/MCurley"
     - label: "Steam"
       icon: "fab fa-fw fa-steam-square"
       url: "https://steamcommunity.com/id/mcurley"
-    - label: "PlayStation"
-      icon: "fab fa-fw fa-playstation"
-      url: "https://www.exophase.com/psn/user/MCurley/"
     - label: "Xbox"
       icon: "fab fa-fw fa-xbox"
-      url: "https://www.exophase.com/xbox/user/MCurley/"
+      url: "https://www.trueachievements.com/gamer/MCurley"
 
 footer:
   links:

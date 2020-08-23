@@ -73,7 +73,7 @@ author:
       icon: "fab fa-fw fa-twitch"
       url: "https://www.twitch.tv/mcurley"
     - label: "Gamercard"
-      icon: "fab fa-fw fa-gamepad"
+      icon: "fab fa fa-gamepad"
       url: "https://www.exophase.com/user/MCurley/"
     - label: "PlayStation"
       icon: "fab fa-fw fa-playstation"
